@@ -19,7 +19,7 @@ header a{
     border-radius: 30px;
     text-decoration: none;
     background-color: #FFFFFF;
-    padding: 3px;
+    padding: 4px;
     font-size: 27px;
     margin-right: 45px;
     margin-bottom: 20px;
@@ -30,6 +30,7 @@ header a{
 }
 h1{
     margin-left: 600px;
+    font-size:30px
 }
 main img{
     flex-shrink: 0;
